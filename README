@@ -1,0 +1,15 @@
+Name: Menda
+Summary: Theme for Manjaro Linux
+URL: https://github.com/manjaro/artwork-menda
+
+Copyright 2014 Manjaro (based on Ceti by horst3180)
+Greybird is dual-licensed as GPLv3.
+
+The Menda theme includes:
+– GTK2 theme
+– GTK3 theme
+– Gnome shell
+– Metacity theme
+
+Dependencies of gtk3.12-branch (for Gtk3.12)
+– gtk-engine-murrine (0.98.2)
