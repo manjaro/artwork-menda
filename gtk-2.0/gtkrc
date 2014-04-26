@@ -2426,5 +2426,21 @@ widget "*openoffice-toplevel*GtkSpinButton"   style "libreoffice_entry"
 widget "*libreoffice-toplevel*GtkEntry"       style "libreoffice_entry"
 widget "*libreoffice-toplevel*GtkSpinButton"  style "libreoffice_entry"
 
+# XFCE desktop icon text looks weird when murrine textstyle is on.
+style "xfdesktop-icon-view"
+{
+	#font_name = "bold"
+	XfdesktopIconView::label-alpha = 0
+	XfdesktopIconView::selected-label-alpha = 60
+	fg[NORMAL] = shade (0.9, @selected_fg_color)
+	fg[ACTIVE] = @selected_fg_color
+	engine "murrine"
+	{
+		textstyle = 5
+		text_shade = 0.05
+	}
+}
+widget_class "*XfdesktopIconView*" style "xfdesktop-icon-view"
+
 include "xfce-panel.rc"
 #include "thunar.rc"
