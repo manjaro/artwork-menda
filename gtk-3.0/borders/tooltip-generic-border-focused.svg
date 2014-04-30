@@ -23,11 +23,11 @@
       <stop
          id="stop3008"
          offset="0"
-         style="stop-color:#729fcf;stop-opacity:1" />
+         style="stop-color:#9fcf72;stop-opacity:1" />
       <stop
          id="stop3010"
          offset="1"
-         style="stop-color:#9ebdde;stop-opacity:1;" />
+         style="stop-color:#bdde9e;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -90,5 +90,5 @@
      height="14.999999"
      width="15"
      id="rect17861"
-     style="color:#000000;fill:none;stroke:#3088d0;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     style="color:#000000;fill:none;stroke:#88d030;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
 </svg>

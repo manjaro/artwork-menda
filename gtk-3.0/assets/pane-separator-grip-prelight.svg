@@ -55,7 +55,7 @@
      transform="translate(0,8)">
     <path
        sodipodi:type="arc"
-       style="fill:#2e3436;fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       style="fill:#34362e;fill-opacity:1;stroke:none;display:inline;enable-background:new"
        id="path5824"
        sodipodi:cx="868.63647"
        sodipodi:cy="617.14966"
@@ -71,11 +71,11 @@
        sodipodi:cy="617.14966"
        sodipodi:cx="868.63647"
        id="path5828"
-       style="fill:#2e3436;fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       style="fill:#34362e;fill-opacity:1;stroke:none;display:inline;enable-background:new"
        sodipodi:type="arc" />
     <path
        sodipodi:type="arc"
-       style="fill:#2e3436;fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       style="fill:#34362e;fill-opacity:1;stroke:none;display:inline;enable-background:new"
        id="path5830"
        sodipodi:cx="868.63647"
        sodipodi:cy="617.14966"
@@ -85,7 +85,7 @@
        transform="matrix(0.52621899,0,0,0.52621789,-456.09301,-331.75519)" />
     <path
        sodipodi:type="arc"
-       style="fill:#2e3436;fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       style="fill:#34362e;fill-opacity:1;stroke:none;display:inline;enable-background:new"
        id="path5824-3"
        sodipodi:cx="868.63647"
        sodipodi:cy="617.14966"
@@ -101,7 +101,7 @@
        sodipodi:cy="617.14966"
        sodipodi:cx="868.63647"
        id="path5828-7"
-       style="fill:#2e3436;fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       style="fill:#34362e;fill-opacity:1;stroke:none;display:inline;enable-background:new"
        sodipodi:type="arc" />
   </g>
 </svg>
