@@ -21,11 +21,11 @@
     <linearGradient
        id="linearGradient3800">
       <stop
-         style="stop-color:#859277;stop-opacity:1;"
+         style="stop-color:#778592;stop-opacity:1;"
          offset="0"
          id="stop3802" />
       <stop
-         style="stop-color:#99a68c;stop-opacity:1;"
+         style="stop-color:#8c99a6;stop-opacity:1;"
          offset="1"
          id="stop3804" />
     </linearGradient>
@@ -93,7 +93,7 @@
        ry="2.5637755"
        transform="matrix(0,1,-1,0,0,0)" />
     <path
-       style="fill:#57604e;fill-opacity:1"
+       style="fill:#4e5760;fill-opacity:1"
        d="m 31,1046.8622 c 0,-1.939 -1.561,-3.5 -3.5,-3.5 l -23,0 c -1.939,0 -3.5,1.561 -3.5,3.5 0,1.939 1.561,3.5 3.5,3.5 l 23,0 c 1.939,0 3.5,-1.561 3.5,-3.5 z m -1,0 c 0,1.385 -1.115,2.5 -2.5,2.5 l -23,0 c -1.385,0 -2.5,-1.115 -2.5,-2.5 0,-1.385 1.115,-2.5 2.5,-2.5 l 23,0 c 1.385,0 2.5,1.115 2.5,2.5 z"
        id="rect3755"
        inkscape:connector-curvature="0" />

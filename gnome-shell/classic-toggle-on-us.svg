@@ -32,11 +32,11 @@
        inkscape:collect="always"
        id="linearGradient62991-9-6">
       <stop
-         style="stop-color:#589fe9;stop-opacity:1"
+         style="stop-color:#ACE958;stop-opacity:1"
          offset="0"
          id="stop62993-6-9" />
       <stop
-         style="stop-color:#a3cefe;stop-opacity:1"
+         style="stop-color:#D4FEA3;stop-opacity:1"
          offset="1"
          id="stop62995-1-6" />
     </linearGradient>
@@ -127,7 +127,7 @@
          transform="translate(0,30)"
          id="g62931">
         <rect
-           style="fill:url(#linearGradient62979-8-1);fill-opacity:1;stroke:#1a71cc;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           style="fill:url(#linearGradient62979-8-1);fill-opacity:1;stroke:#7ECC46;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
            id="rect62935"
            width="63.856125"
            height="21.093594"
@@ -136,7 +136,7 @@
            rx="2"
            ry="2" />
         <rect
-           style="fill:url(#linearGradient62981-1-1);fill-opacity:1;stroke:#777b7a;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           style="fill:url(#linearGradient62981-1-1);fill-opacity:1;stroke:#787B77;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
            id="rect62937"
            width="29.97398"
            height="17.022524"
@@ -155,7 +155,7 @@
              height="8"
              width="2"
              id="rect62941"
-             style="fill:#e8e8e5;fill-opacity:1;stroke:none;display:inline" />
+             style="fill:#E8E8E5;fill-opacity:1;stroke:none;display:inline" />
           <rect
              ry="1"
              rx="1"
@@ -189,7 +189,7 @@
          id="text62949-7"
          y="534.96918"
          x="646.71399"
-         style="font-size:10.01104736px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1a71cc;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+         style="font-size:10.01104736px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#69CC1A;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
          xml:space="preserve"><tspan
            y="534.96918"
            x="646.71399"

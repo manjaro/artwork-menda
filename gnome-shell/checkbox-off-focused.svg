@@ -82,11 +82,11 @@
        inkscape:collect="always"
        id="linearGradient10597-5">
       <stop
-         style="stop-color:#16191a;stop-opacity:1;"
+         style="stop-color:#171A16;stop-opacity:1;"
          offset="0"
          id="stop10599-2" />
       <stop
-         style="stop-color:#2b3133;stop-opacity:1"
+         style="stop-color:#2E332B;stop-opacity:1"
          offset="1"
          id="stop10601-5" />
     </linearGradient>
@@ -176,7 +176,7 @@
            style="stroke-width:1.18754292;stroke-miterlimit:4;stroke-dasharray:none;enable-background:new">
           <rect
              transform="scale(1,-1)"
-             style="color:#000000;fill:url(#linearGradient14219);fill-opacity:1;fill-rule:nonzero;stroke:#3465a4;stroke-width:1.24833274;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+             style="color:#000000;fill:url(#linearGradient14219);fill-opacity:1;fill-rule:nonzero;stroke:#64A434;stroke-width:1.24833274;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
              id="rect6506-6"
              width="11.281681"
              height="11.26221"

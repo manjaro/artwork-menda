@@ -3,9 +3,9 @@
 /******************************
  * Destructive action buttons *
  ******************************/
-@define-color destructive_action_button_a #E03D3D;
-@define-color destructive_action_button_b #EF2929;
-@define-color destructive_action_button_border #9D4242;
+@define-color destructive_action_button_a #e03d3d;
+@define-color destructive_action_button_b #ef2929;
+@define-color destructive_action_button_border #9d4242;
 @define-color destructive_action_button_fg #ffffff;
 @define-color destructive_action_button_shadow shade(@destructive_action_button_border, 1.15);
 
@@ -14,7 +14,7 @@
  *******/
 @define-color osd_highlight #ffffff;
 @define-color osd_lowlight #525252;
-@define-color osd_base #191919;
+@define-color osd_base #212526;
 @define-color osd_base_backdrop shade(@osd_base, 1.40);
 
 @define-color osd_fg #ededed;
@@ -81,7 +81,7 @@
 /************
  * Terminal *
  ************/
-@define-color terminal_bg #252525;
+@define-color terminal_bg #22292F;
 @define-color terminal_fg #ededed;
 @define-color terminal_scrollbar_slider #3F464D;
 
@@ -107,7 +107,7 @@
 /************
  * Tooltips *
  ************/
-@define-color theme_tooltip_bg_color #242424;
+@define-color theme_tooltip_bg_color #242C33;
 @define-color theme_tooltip_fg_color #ffffff;
 
 @define-color dark_shadow #000;

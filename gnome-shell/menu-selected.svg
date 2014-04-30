@@ -24,11 +24,11 @@
     <linearGradient
        id="linearGradient3886">
       <stop
-         style="stop-color:#b0d1ed;stop-opacity:1;"
+         style="stop-color:#D0EDB0;stop-opacity:1;"
          offset="0"
          id="stop3888" />
       <stop
-         style="stop-color:#6dabde;stop-opacity:0;"
+         style="stop-color:#A7DE6D;stop-opacity:0;"
          offset="1"
          id="stop3890" />
     </linearGradient>
@@ -52,24 +52,24 @@
       <stop
          id="stop3866"
          offset="0"
-         style="stop-color:#275e8c;stop-opacity:1;" />
+         style="stop-color:#598C27;stop-opacity:1;" />
       <stop
          id="stop3870"
          offset="1"
-         style="stop-color:#4286be;stop-opacity:1;" />
+         style="stop-color:#85BE42;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3787">
       <stop
-         style="stop-color:#1c232b;stop-opacity:1;"
+         style="stop-color:#222B1C;stop-opacity:1;"
          offset="0"
          id="stop3789" />
       <stop
          id="stop4045"
          offset="0.5"
-         style="stop-color:#202830;stop-opacity:1;" />
+         style="stop-color:#263020;stop-opacity:1;" />
       <stop
-         style="stop-color:#242d36;stop-opacity:1;"
+         style="stop-color:#2B3624;stop-opacity:1;"
          offset="1"
          id="stop3791" />
     </linearGradient>
@@ -269,22 +269,22 @@
     <linearGradient
        id="linearGradient3787-1">
       <stop
-         style="stop-color:#1c232b;stop-opacity:1;"
+         style="stop-color:#212B1C;stop-opacity:1;"
          offset="0"
          id="stop3789-5" />
       <stop
-         style="stop-color:#242d36;stop-opacity:1;"
+         style="stop-color:#293624;stop-opacity:1;"
          offset="1"
          id="stop3791-5" />
     </linearGradient>
     <linearGradient
        id="linearGradient3898">
       <stop
-         style="stop-color:#1c232b;stop-opacity:1;"
+         style="stop-color:#222B1C;stop-opacity:1;"
          offset="0"
          id="stop3900" />
       <stop
-         style="stop-color:#242d36;stop-opacity:1;"
+         style="stop-color:#293624;stop-opacity:1;"
          offset="1"
          id="stop3902" />
     </linearGradient>
@@ -332,30 +332,30 @@
     <linearGradient
        id="linearGradient3787-7">
       <stop
-         style="stop-color:#1c232b;stop-opacity:1;"
+         style="stop-color:#202B1C;stop-opacity:1;"
          offset="0"
          id="stop3789-7" />
       <stop
          id="stop4045-1"
          offset="0.5"
-         style="stop-color:#202830;stop-opacity:1;" />
+         style="stop-color:#243020;stop-opacity:1;" />
       <stop
-         style="stop-color:#242d36;stop-opacity:1;"
+         style="stop-color:#2B3624;stop-opacity:1;"
          offset="1"
          id="stop3791-2" />
     </linearGradient>
     <linearGradient
        id="linearGradient4129">
       <stop
-         style="stop-color:#1c232b;stop-opacity:1;"
+         style="stop-color:#202B1C;stop-opacity:1;"
          offset="0"
          id="stop4131" />
       <stop
          id="stop4133"
          offset="0.5"
-         style="stop-color:#202830;stop-opacity:1;" />
+         style="stop-color:#273020;stop-opacity:1;" />
       <stop
-         style="stop-color:#242d36;stop-opacity:1;"
+         style="stop-color:#293624;stop-opacity:1;"
          offset="1"
          id="stop4135" />
     </linearGradient>
@@ -476,7 +476,7 @@
              transform="matrix(0,1,-1,0,0,0)"
              ry="0" />
           <rect
-             style="fill:#265276;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             style="fill:#4C7626;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
              id="rect3841"
              width="28.039116"
              height="1"
@@ -484,7 +484,7 @@
              y="-31"
              transform="matrix(0,1,-1,0,0,0)" />
           <rect
-             style="fill:#265d8a;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             style="fill:#588A26;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
              id="rect3841-4"
              width="28.043028"
              height="1"

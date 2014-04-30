@@ -21,26 +21,26 @@
     <linearGradient
        id="linearGradient3793">
       <stop
-         style="stop-color:#005bff;stop-opacity:0.50588238;"
+         style="stop-color:#73FF00;stop-opacity:0.50588238;"
          offset="0"
          id="stop3795" />
       <stop
-         style="stop-color:#5293c7;stop-opacity:0;"
+         style="stop-color:#8DC752;stop-opacity:0;"
          offset="1"
          id="stop3797" />
     </linearGradient>
     <linearGradient
        id="linearGradient3760">
       <stop
-         style="stop-color:#0081ff;stop-opacity:0;"
+         style="stop-color:#80FF00;stop-opacity:0;"
          offset="0"
          id="stop3762" />
       <stop
          id="stop3770"
          offset="0.5"
-         style="stop-color:#0081ff;stop-opacity:1;" />
+         style="stop-color:#70FF00;stop-opacity:1;" />
       <stop
-         style="stop-color:#0081ff;stop-opacity:0;"
+         style="stop-color:#7AFF00;stop-opacity:0;"
          offset="1"
          id="stop3764" />
     </linearGradient>

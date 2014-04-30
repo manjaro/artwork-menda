@@ -40,7 +40,7 @@
     <linearGradient
        id="linearGradient3845">
       <stop
-         style="stop-color:#a3a89e;stop-opacity:1;"
+         style="stop-color:#9ea3a8;stop-opacity:1;"
          offset="0"
          id="stop3847" />
       <stop
@@ -164,6 +164,6 @@
        height="13"
        width="13"
        id="rect17861"
-       style="color:#000000;fill:none;stroke:#68a024;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#000000;fill:none;stroke:#2468a0;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
 </svg>

@@ -54,22 +54,22 @@
     <linearGradient
        id="linearGradient3907">
       <stop
-         style="stop-color:#59a7e7;stop-opacity:0.52549022;"
+         style="stop-color:#98E759;stop-opacity:0.52549022;"
          offset="0"
          id="stop3909" />
       <stop
-         style="stop-color:#59a7e7;stop-opacity:0;"
+         style="stop-color:#90E759;stop-opacity:0;"
          offset="1"
          id="stop3911" />
     </linearGradient>
     <linearGradient
        id="linearGradient3897">
       <stop
-         style="stop-color:#0c4eff;stop-opacity:1;"
+         style="stop-color:#78FF0C;stop-opacity:1;"
          offset="0"
          id="stop3899" />
       <stop
-         style="stop-color:#0c4eff;stop-opacity:0;"
+         style="stop-color:#89FF0C;stop-opacity:0;"
          offset="1"
          id="stop3901" />
     </linearGradient>
@@ -80,14 +80,14 @@
          offset="0"
          id="stop4487" />
       <stop
-         style="stop-color:#1595ff;stop-opacity:1;"
+         style="stop-color:#82FF15;stop-opacity:1;"
          offset="1"
          id="stop4489" />
     </linearGradient>
     <linearGradient
        id="linearGradient4473">
       <stop
-         style="stop-color:#06080a;stop-opacity:1;"
+         style="stop-color:#070A06;stop-opacity:1;"
          offset="0"
          id="stop4475" />
       <stop
@@ -109,22 +109,22 @@
     <linearGradient
        id="linearGradient4453">
       <stop
-         style="stop-color:#2f3a42;stop-opacity:1;"
+         style="stop-color:#37422F;stop-opacity:1;"
          offset="0"
          id="stop4455" />
       <stop
-         style="stop-color:#1d242a;stop-opacity:1;"
+         style="stop-color:#242A1D;stop-opacity:1;"
          offset="1"
          id="stop4457" />
     </linearGradient>
     <linearGradient
        id="linearGradient4445">
       <stop
-         style="stop-color:#728495;stop-opacity:1;"
+         style="stop-color:#859572;stop-opacity:1;"
          offset="0"
          id="stop4447" />
       <stop
-         style="stop-color:#617c95;stop-opacity:0;"
+         style="stop-color:#829561;stop-opacity:0;"
          offset="1"
          id="stop4449" />
     </linearGradient>
@@ -147,7 +147,8 @@
        y1="18"
        x2="6"
        y2="18"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1.2832027e-8,-4)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3923"
@@ -236,17 +237,26 @@
        y2="16"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.468842,0,0,1,-16.878312,-4)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3897"
+       id="linearGradient3829"
+       x1="2"
+       y1="18"
+       x2="3"
+       y2="18"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#212930"
+     pagecolor="#263021"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.197802"
-     inkscape:cx="29.578442"
-     inkscape:cy="16.43203"
+     inkscape:zoom="31.672167"
+     inkscape:cx="7.3739735"
+     inkscape:cy="27.212768"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -254,7 +264,7 @@
      inkscape:window-width="1186"
      inkscape:window-height="726"
      inkscape:window-x="178"
-     inkscape:window-y="20"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -282,7 +292,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -332,9 +342,9 @@
        y="-6.0145183"
        transform="scale(1,-1)" />
     <rect
-       style="fill:#5da9e3;fill-opacity:1"
+       style="fill:#00ff00;fill-opacity:1"
        id="rect3781-5"
-       width="3"
+       width="2.0176644"
        height="26"
        x="0"
        y="1"
@@ -342,13 +352,12 @@
     <rect
        style="fill:url(#linearGradient3913);fill-opacity:1"
        id="rect3905"
-       width="5"
+       width="5.8524833"
        height="26"
-       x="3"
-       y="5"
-       transform="translate(0,-4)" />
+       x="2.1475165"
+       y="1" />
     <rect
-       style="fill:#73b4e1;fill-opacity:1"
+       style="fill:url(#linearGradient3829);fill-opacity:1.0"
        id="rect3919"
        width="1"
        height="26"

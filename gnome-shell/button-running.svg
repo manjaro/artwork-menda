@@ -32,22 +32,22 @@
     <linearGradient
        id="linearGradient3907">
       <stop
-         style="stop-color:#1c7bc9;stop-opacity:0.52549022;"
+         style="stop-color:#57C91C;stop-opacity:0.52549022;"
          offset="0"
          id="stop3909" />
       <stop
-         style="stop-color:#1c7bc9;stop-opacity:0;"
+         style="stop-color:#6CC91C;stop-opacity:0;"
          offset="1"
          id="stop3911" />
     </linearGradient>
     <linearGradient
        id="linearGradient3897">
       <stop
-         style="stop-color:#0c4eff;stop-opacity:1;"
+         style="stop-color:#79FF0C;stop-opacity:1;"
          offset="0"
          id="stop3899" />
       <stop
-         style="stop-color:#0c4eff;stop-opacity:0;"
+         style="stop-color:#6BFF0C;stop-opacity:0;"
          offset="1"
          id="stop3901" />
     </linearGradient>
@@ -58,14 +58,14 @@
          offset="0"
          id="stop4487" />
       <stop
-         style="stop-color:#1595ff;stop-opacity:1;"
+         style="stop-color:#67FF15;stop-opacity:1;"
          offset="1"
          id="stop4489" />
     </linearGradient>
     <linearGradient
        id="linearGradient4473">
       <stop
-         style="stop-color:#06080a;stop-opacity:1;"
+         style="stop-color:#06080A;stop-opacity:1;"
          offset="0"
          id="stop4475" />
       <stop
@@ -87,11 +87,11 @@
     <linearGradient
        id="linearGradient4453">
       <stop
-         style="stop-color:#2f3a42;stop-opacity:1;"
+         style="stop-color:#39422F;stop-opacity:1;"
          offset="0"
          id="stop4455" />
       <stop
-         style="stop-color:#1d242a;stop-opacity:1;"
+         style="stop-color:#232A1D;stop-opacity:1;"
          offset="1"
          id="stop4457" />
     </linearGradient>
@@ -102,7 +102,7 @@
          offset="0"
          id="stop4447" />
       <stop
-         style="stop-color:#617c95;stop-opacity:0;"
+         style="stop-color:#799561;stop-opacity:0;"
          offset="1"
          id="stop4449" />
     </linearGradient>
@@ -168,7 +168,7 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#212930"
+     pagecolor="#273021"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="1"
@@ -245,7 +245,7 @@
        y="31"
        transform="translate(0,-4)" />
     <rect
-       style="fill:#1c7bc9;fill-opacity:1"
+       style="fill:#61C91C;fill-opacity:1"
        id="rect3781-5"
        width="3"
        height="26"
@@ -261,7 +261,7 @@
        y="5"
        transform="translate(0,-4)" />
     <rect
-       style="fill:#1e87dc;fill-opacity:1"
+       style="fill:#76DC1E;fill-opacity:1"
        id="rect3919"
        width="1"
        height="26"

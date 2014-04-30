@@ -10,13 +10,13 @@
 
 <!-- meaningfull constants -->
 
-<constant name="C_border_focused" value="shade/gtk:custom(wm_bg,#303942)/0.2" />
-<constant name="C_border_unfocused" value="shade/gtk:custom(wm_bg,#303942)/0.2" />
-<constant name="C_title_focused" value="gtk:custom(wm_title_focused,#E4EFF5)" />
-<constant name="C_title_focused_hilight" value="shade/gtk:custom(wm_bg,#303942)/0.3" />
-<constant name="C_title_focused_hilight_dark" value="shade/gtk:custom(wm_bg,#303942)/0.3" />
+<constant name="C_border_focused" value="shade/gtk:custom(wm_bg,#000000)/0.2" />
+<constant name="C_border_unfocused" value="shade/gtk:custom(wm_bg,#000000)/0.2" />
+<constant name="C_title_focused" value="gtk:custom(wm_title_focused,#0a0a0a)" />
+<constant name="C_title_focused_hilight" value="shade/gtk:custom(wm_bg,#354230)/0.3" />
+<constant name="C_title_focused_hilight_dark" value="shade/gtk:custom(wm_bg,#374230)/0.3" />
 <constant name="C_title_unfocused" value="gtk:custom(wm_title_unfocused,#5D6870)" />
-<constant name="C_titlebar_bg" value="gtk:custom(wm_bg,#303942)" />
+<constant name="C_titlebar_bg" value="gtk:custom(wm_bg,#0a0a0a)" />
 <constant name="C_titlebar_bg_highlight_one" value="shade/gtk:custom(wm_bg,#303942)/1.4" />
 <constant name="C_titlebar_bg_highlight_two" value="shade/gtk:custom(wm_bg,#303942)/1.1" />
 

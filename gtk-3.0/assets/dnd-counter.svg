@@ -34,11 +34,11 @@
       <stop
          id="stop22970-0-16-4"
          offset="0"
-         style="stop-color:#9fcf72;stop-opacity:1" />
+         style="stop-color:#729fcf;stop-opacity:1" />
       <stop
          id="stop22972-8-3-4"
          offset="1"
-         style="stop-color:#65a434;stop-opacity:1" />
+         style="stop-color:#3465a4;stop-opacity:1" />
     </linearGradient>
     <filter
        color-interpolation-filters="sRGB"
@@ -58,11 +58,11 @@
       <stop
          id="stop22970-0-16-4-2"
          offset="0"
-         style="stop-color:#9fcf72;stop-opacity:1" />
+         style="stop-color:#729fcf;stop-opacity:1" />
       <stop
          id="stop22972-8-3-4-6"
          offset="1"
-         style="stop-color:#65a434;stop-opacity:1" />
+         style="stop-color:#3465a4;stop-opacity:1" />
     </linearGradient>
     <clipPath
        id="clipPath27307-6"

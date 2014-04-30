@@ -21,11 +21,11 @@
     <linearGradient
        id="linearGradient3814">
       <stop
-         style="stop-color:#676c64;stop-opacity:1;"
+         style="stop-color:#64676c;stop-opacity:1;"
          offset="0"
          id="stop3816" />
       <stop
-         style="stop-color:#b0b4ae;stop-opacity:1;"
+         style="stop-color:#aeb0b4;stop-opacity:1;"
          offset="1"
          id="stop3818" />
     </linearGradient>
@@ -49,9 +49,9 @@
       <stop
          id="stop3769"
          offset="0.5"
-         style="stop-color:#f4f6f4;stop-opacity:1;" />
+         style="stop-color:#f4f4f6;stop-opacity:1;" />
       <stop
-         style="stop-color:#c8cdc8;stop-opacity:1"
+         style="stop-color:#c8c8cd;stop-opacity:1"
          offset="1"
          id="stop3777" />
     </linearGradient>
@@ -120,7 +120,7 @@
      inkscape:groupmode="layer">
     <path
        sodipodi:type="arc"
-       style="fill:#a3a89e;fill-opacity:1"
+       style="fill:#9ea3a8;fill-opacity:1"
        id="path3769"
        sodipodi:cx="8"
        sodipodi:cy="8"

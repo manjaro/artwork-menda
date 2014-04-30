@@ -22,22 +22,22 @@
        inkscape:collect="always"
        id="linearGradient3775">
       <stop
-         style="stop-color:#7bb337;stop-opacity:1"
+         style="stop-color:#377bb3;stop-opacity:1"
          offset="0"
          id="stop3777" />
       <stop
-         style="stop-color:#6ca428;stop-opacity:1"
+         style="stop-color:#286ca4;stop-opacity:1"
          offset="1"
          id="stop3779" />
     </linearGradient>
     <linearGradient
        id="linearGradient3761">
       <stop
-         style="stop-color:#6b7e58;stop-opacity:1;"
+         style="stop-color:#586b7e;stop-opacity:1;"
          offset="0"
          id="stop3763" />
       <stop
-         style="stop-color:#3b4531;stop-opacity:1;"
+         style="stop-color:#313b45;stop-opacity:1;"
          offset="1"
          id="stop3765" />
     </linearGradient>
@@ -123,7 +123,7 @@
      id="layer1"
      transform="translate(0,-1040.3622)">
     <rect
-       style="fill:#9bc864;fill-opacity:1"
+       style="fill:#649bc8;fill-opacity:1"
        id="rect3760"
        width="58"
        height="4"
@@ -141,7 +141,7 @@
        transform="translate(0,1040.3622)"
        ry="2" />
     <path
-       style="fill:#507b1b;fill-opacity:1"
+       style="fill:#1b507b;fill-opacity:1"
        d="m 6,1043.3622 c -1.662,0 -3,1.338 -3,3 0,1.662 1.338,3 3,3 l 54,0 c 1.662,0 3,-1.338 3,-3 0,-1.662 -1.338,-3 -3,-3 l -54,0 z m 0,1 54,0 c 1.108,0 2,0.892 2,2 0,1.108 -0.892,2 -2,2 l -54,0 c -1.108,0 -2,-0.892 -2,-2 0,-1.108 0.892,-2 2,-2 z"
        id="rect3858"
        inkscape:connector-curvature="0" />

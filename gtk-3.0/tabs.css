@@ -58,7 +58,7 @@ EphyNotebook.notebook tab.reorderable-page:active {
     border-width: 0px 10px 6px 10px;
     border-style: solid;
     border-color: transparent;
-	background-color: #2D2D2D;
+	background-color: #252D35;
 	background-image: none;
 }
 
@@ -130,7 +130,7 @@ TerminalWindow .notebook tab.reorderable-page:hover {
     border-width: 0px 10px 6px 10px;
     border-style: solid;
     border-color: transparent;
-	background-color: #323232;
+	background-color: #293138;
 }
 
 TerminalWindow .notebook tab.reorderable-page:active {
