@@ -1,24 +1,24 @@
 <?xml version="1.0"?>
 <metacity_theme>
 <info>
-	<name>Menda</name>
-	<author>Philip Müller</author>
-	<copyright>Manjaro + horst3180</copyright>
+	<name>Ceti</name>
+	<author>horst3180</author>
+	<copyright>horst3180</copyright>
 	<date>2014</date>
-	<description>Menda Metacity theme</description>
+	<description>Ceti Metacity theme</description>
 </info>
 
 <!-- meaningfull constants -->
 
-<constant name="C_border_focused" value="shade/gtk:custom(wm_bg,#394230)/0.2" />
-<constant name="C_border_unfocused" value="shade/gtk:custom(wm_bg,#394230)/0.2" />
-<constant name="C_title_focused" value="gtk:custom(wm_title_focused,#eff5e4)" />
-<constant name="C_title_focused_hilight" value="shade/gtk:custom(wm_bg,#394230)/0.3" />
-<constant name="C_title_focused_hilight_dark" value="shade/gtk:custom(wm_bg,#394230)/0.3" />
-<constant name="C_title_unfocused" value="gtk:custom(wm_title_unfocused,#68705d)" />
-<constant name="C_titlebar_bg" value="gtk:custom(wm_bg,#394230)" />
-<constant name="C_titlebar_bg_highlight_one" value="shade/gtk:custom(wm_bg,#394230)/1.4" />
-<constant name="C_titlebar_bg_highlight_two" value="shade/gtk:custom(wm_bg,#394230)/1.1" />
+<constant name="C_border_focused" value="shade/gtk:custom(wm_bg,#303942)/0.2" />
+<constant name="C_border_unfocused" value="shade/gtk:custom(wm_bg,#303942)/0.2" />
+<constant name="C_title_focused" value="gtk:custom(wm_title_focused,#E4EFF5)" />
+<constant name="C_title_focused_hilight" value="shade/gtk:custom(wm_bg,#303942)/0.3" />
+<constant name="C_title_focused_hilight_dark" value="shade/gtk:custom(wm_bg,#303942)/0.3" />
+<constant name="C_title_unfocused" value="gtk:custom(wm_title_unfocused,#5D6870)" />
+<constant name="C_titlebar_bg" value="gtk:custom(wm_bg,#303942)" />
+<constant name="C_titlebar_bg_highlight_one" value="shade/gtk:custom(wm_bg,#303942)/1.4" />
+<constant name="C_titlebar_bg_highlight_two" value="shade/gtk:custom(wm_bg,#303942)/1.1" />
 
 <!-- geometries -->
 

@@ -3328,8 +3328,8 @@ GtkSwitch.trough {
 	background-color: @toolbar_bg_color;
     border-color: shade(@toolbar_bg_color, 0.7);
     background-image: -gtk-gradient(linear, left top, left bottom,
-                                     from (#525c4b),
-                                     to (#727e6a));
+                                     from (#4B525C),
+                                     to (#6A727E));
     color: @theme_toolbar_fg_color;
 	box-shadow: inset 0px 1px 2px alpha(@dark_shadow, 0.2);
 }

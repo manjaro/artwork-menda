@@ -61,7 +61,7 @@
          offset="0"
          id="stop5874-4-4" />
       <stop
-         style="stop-color:#62af18;stop-opacity:1"
+         style="stop-color:#1862af;stop-opacity:1"
          offset="1"
          id="stop5876-0-5" />
     </linearGradient>
@@ -227,7 +227,7 @@
            inkscape:path-effect="#path-effect5837-4-6"
            id="path5880"
            d="m 198.5,240 5.25,5.25 13.91205,-14.31964"
-           style="fill:none;stroke:#87c847;stroke-width:3.55715752;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           style="fill:none;stroke:#4787c8;stroke-width:3.55715752;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
            sodipodi:nodetypes="ccc" />
         <path
            style="fill:none;stroke:#7ea7d3;stroke-width:1.18571913px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
