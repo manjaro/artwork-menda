@@ -1,11 +1,11 @@
-Name: Ceti
-Summary: A darker theme with a mix of blue and light grey colors.
-URL: http://horst3180.deviantart.com/art/Ceti-445892596
+Name: Menda
+Summary: Theme for Manjaro Linux
+URL: https://github.com/manjaro/artwork-menda
 
-Copyright 2014 Horst3180
+Copyright 2014 Manjaro (based on Ceti by horst3180)
 Licensed as GPLv3.
 
-The Ceti theme includes:
+The Menda theme includes:
 - GTK2 theme
 - GTK3 theme
 - Gnome shell

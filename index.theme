@@ -1,10 +1,10 @@
 [X-GNOME-Metatheme]
-_Name=Ceti
+_Name=Menda
 Type=X-GNOME-Metatheme
 _Comment=A nice theme
 Encoding=UTF-8
-GtkTheme=Ceti
-MetacityTheme=Ceti
-IconTheme=gnome
-CursorTheme=Adwaita
+GtkTheme=Menda
+MetacityTheme=Menda
+IconTheme=Faenza-Green
+CursorTheme=DMZ-Black
 CursorSize=24
