@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="close_unfocused.svg">
+   sodipodi:docname="close_unfocused_prelight.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -90,57 +90,12 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3767"
-       id="linearGradient4527"
-       gradientUnits="userSpaceOnUse"
-       x1="4"
-       y1="1040.8622"
-       x2="19"
-       y2="1040.8622" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3767"
-       id="linearGradient4529"
-       gradientUnits="userSpaceOnUse"
-       x1="4"
-       y1="1040.8622"
-       x2="19"
-       y2="1040.8622" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3767"
-       id="linearGradient4531"
-       gradientUnits="userSpaceOnUse"
-       x1="4"
-       y1="1040.8622"
-       x2="19"
-       y2="1040.8622" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3767"
        id="linearGradient4533"
        gradientUnits="userSpaceOnUse"
        x1="4"
        y1="1040.8622"
        x2="19"
        y2="1040.8622" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3767"
-       id="linearGradient4553"
-       x1="14"
-       y1="5.9999866"
-       x2="14"
-       y2="16.999987"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3767"
-       id="linearGradient4571"
-       gradientUnits="userSpaceOnUse"
-       x1="14"
-       y1="5.9999866"
-       x2="14"
-       y2="16.999987" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -150,7 +105,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="8.8760382"
+     inkscape:cx="14.11663"
      inkscape:cy="12.713832"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -188,7 +143,7 @@
      id="layer1"
      transform="translate(0,-1033.3622)">
     <g
-       id="g4580"
+       id="g4765"
        transform="translate(-1.9999997,1.9999733)">
       <path
          sodipodi:type="arc"
@@ -229,7 +184,7 @@
          sodipodi:cy="11.5"
          sodipodi:cx="13"
          id="path4545"
-         style="fill:#e6e6e6;fill-opacity:1;stroke:none"
+         style="fill:#f2f2f2;fill-opacity:1;stroke:none"
          sodipodi:type="arc" />
       <rect
          transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
