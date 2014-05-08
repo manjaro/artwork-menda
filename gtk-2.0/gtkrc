@@ -1,4 +1,4 @@
-gtk-color-scheme = "base_color:#FFFFFF\nfg_color:#333333\ntooltip_fg_color:#FFFFFF\nselected_bg_color:#73A344\nselected_fg_color:#FFFFFF\ntext_color:#333333\nbg_color:#E4E4E4\ninsensitive_bg_color:#F4F4F2\ntooltip_bg_color:#232323\nmenubar_fg_color:#F5FBFF\nmenu_fg_color:#333333"
+gtk-color-scheme = "base_color:#FFFFFF\nfg_color:#333333\ntooltip_fg_color:#FFFFFF\nselected_bg_color:#73A344\nselected_fg_color:#FFFFFF\ntext_color:#333333\nbg_color:#E4E4E4\ninsensitive_bg_color:#F4F4F2\ntooltip_bg_color:#0a0a0a\nmenubar_fg_color:#F5FBFF\nmenu_fg_color:#333333"
 
 gtk-auto-mnemonics              = 1
 gtk-primary-button-warps-slider = 1
@@ -675,7 +675,7 @@ style "scrollbar"
 style "menubar"
 {
 	bg[PRELIGHT]	= "#FFF"
-	bg[NORMAL] 		= "#232323"
+	bg[NORMAL] 		= "#0a0a0a"
 	fg[NORMAL]      = @menubar_fg_color
 	fg[SELECTED]	= @selected_fg_color
 	fg[INSENSITIVE] = shade(0.5, @selected_fg_color)
@@ -2315,8 +2315,8 @@ style "eclipse-tooltips"
 # Chromium
 style "chrome-gtk-frame"
 {
-	ChromeGtkFrame::frame-color = "#232323"
-	ChromeGtkFrame::inactive-frame-color = "#232323"
+	ChromeGtkFrame::frame-color = "#0a0a0a"
+	ChromeGtkFrame::inactive-frame-color = "#0a0a0a"
 
 	ChromeGtkFrame::frame-gradient-size = 16
 	#ChromeGtkFrame::frame-gradient-color = shade(1.07, @bg_color)

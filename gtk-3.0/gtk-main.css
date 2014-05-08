@@ -167,7 +167,7 @@
 /**************
  * GNOME Apps *
  **************/
-@define-color entry_tag_bg #232323;
+@define-color entry_tag_bg #0a0a0a;
 @define-color entry_tag_fg @theme_base_color;
 
 /******

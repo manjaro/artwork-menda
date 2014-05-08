@@ -1,5 +1,5 @@
 /* Dark color scheme */
-@define-color theme_base_color #232323;
+@define-color theme_base_color #0a0a0a;
 @define-color theme_bg_color #3F3F3F;
 @define-color theme_selected_bg_color #57A024;
 @define-color theme_text_color #E4E9ED;
@@ -149,8 +149,8 @@
 @define-color suggested_action_button_fg @theme_selected_fg_color;
 @define-color suggested_action_button_shadow shade(@suggested_action_button_border, 1.15);
 
-@define-color floating_bar_bg shade(#232323, 0.7);
-@define-color dark_sidebar_bg #232323;
+@define-color floating_bar_bg shade(#0a0a0a, 0.7);
+@define-color dark_sidebar_bg #0a0a0a;
 
 @define-color menubar_bg_color @toolbar_bg_color;
 @define-color menubar_bg_a #191919;
