@@ -1,7 +1,7 @@
 /* Default color scheme */
 @define-color theme_base_color #ffffff;
 @define-color theme_bg_color #ECECEC;
-@define-color theme_selected_bg_color #73A344;
+@define-color theme_selected_bg_color #8CBC65;
 @define-color theme_text_color #333333;
 @define-color theme_fg_color @theme_text_color;
 @define-color theme_selected_fg_color #ffffff;
@@ -167,7 +167,7 @@
 /**************
  * GNOME Apps *
  **************/
-@define-color entry_tag_bg #0a0a0a;
+@define-color entry_tag_bg #232323;
 @define-color entry_tag_fg @theme_base_color;
 
 /******
