@@ -1,10 +1,12 @@
-[X-GNOME-Metatheme]
-_Name=Menda
+[Desktop Entry]
 Type=X-GNOME-Metatheme
-_Comment=A nice theme
+Name=Menda
+Comment=Manjaro Gtk Theme
 Encoding=UTF-8
+
+[X-GNOME-Metatheme]
 GtkTheme=Menda
 MetacityTheme=Menda
-IconTheme=Faenza-Green
+IconTheme=gnome
 CursorTheme=DMZ-Black
-CursorSize=24
+ButtonLayout=menu:minimize,maximize,close

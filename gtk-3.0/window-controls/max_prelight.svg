@@ -14,7 +14,7 @@
    height="15"
    id="svg4306"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="max_prelight.svg">
   <defs
      id="defs4308">
@@ -107,10 +107,10 @@
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1415"
-     inkscape:window-height="863"
-     inkscape:window-x="157"
-     inkscape:window-y="87"
+     inkscape:window-width="1278"
+     inkscape:window-height="671"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:snap-global="false">
     <inkscape:grid
@@ -189,9 +189,9 @@
     <g
        transform="matrix(0.74999996,0,0,0.75000005,2.0000001,1037.3622)"
        id="layer1-9"
-       style="fill:#9fe844;fill-opacity:1">
+       style="fill:#ffff00;fill-opacity:1">
       <path
-         style="color:#bebebe;fill:#9fe844;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#bebebe;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="path3039"
          inkscape:connector-curvature="0"
          d="M 6.7525914,7.9999999 4.2577743,10.494817 c -0.3436989,0.3437 -0.3436989,0.903709 0,1.247409 0.3437,0.343698 0.9037086,0.343698 1.2474085,0 L 8,9.2474085 10.494817,11.742226 c 0.3437,0.343698 0.903709,0.343698 1.247409,0 0.343699,-0.3437 0.343699,-0.903709 0,-1.247409 C 8.550433,7.3130175 8.1127137,6.8628274 8,6.7525914 z"

@@ -14,8 +14,8 @@
    height="22"
    id="svg10865"
    version="1.1"
-   inkscape:version="0.48+devel r12050"
-   sodipodi:docname="toggle-on-us.svg">
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="classic-toggle-on-us.svg">
   <defs
      id="defs10867">
     <linearGradient
@@ -29,14 +29,13 @@
        x2="702.58966"
        y2="507.42715" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient62991-9-6">
       <stop
-         style="stop-color:#ACE958;stop-opacity:1"
+         style="stop-color:#8cbc65;stop-opacity:1;"
          offset="0"
          id="stop62993-6-9" />
       <stop
-         style="stop-color:#D4FEA3;stop-opacity:1"
+         style="stop-color:#6edf44;stop-opacity:1;"
          offset="1"
          id="stop62995-1-6" />
     </linearGradient>
@@ -77,9 +76,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="8.2018252"
-     inkscape:cy="8.0650495"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="27.502813"
+     inkscape:cy="-47.819101"
      inkscape:document-units="px"
      inkscape:current-layer="g62929"
      showgrid="false"
@@ -89,10 +88,10 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:snap-others="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1375"
-     inkscape:window-x="1600"
-     inkscape:window-y="28"
+     inkscape:window-width="1280"
+     inkscape:window-height="640"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
      showborder="false">
     <inkscape:grid
@@ -127,7 +126,7 @@
          transform="translate(0,30)"
          id="g62931">
         <rect
-           style="fill:url(#linearGradient62979-8-1);fill-opacity:1;stroke:#7ECC46;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           style="fill:url(#linearGradient62979-8-1);fill-opacity:1;stroke:#669440;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
            id="rect62935"
            width="63.856125"
            height="21.093594"
@@ -136,7 +135,7 @@
            rx="2"
            ry="2" />
         <rect
-           style="fill:url(#linearGradient62981-1-1);fill-opacity:1;stroke:#787B77;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           style="fill:url(#linearGradient62981-1-1);fill-opacity:1;stroke:#777b7a;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
            id="rect62937"
            width="29.97398"
            height="17.022524"
@@ -155,7 +154,7 @@
              height="8"
              width="2"
              id="rect62941"
-             style="fill:#E8E8E5;fill-opacity:1;stroke:none;display:inline" />
+             style="fill:#e8e8e5;fill-opacity:1;stroke:none;display:inline" />
           <rect
              ry="1"
              rx="1"
@@ -189,7 +188,7 @@
          id="text62949-7"
          y="534.96918"
          x="646.71399"
-         style="font-size:10.01104736px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#69CC1A;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+         style="font-size:10.01104735999999917px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#8cbc65;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
          xml:space="preserve"><tspan
            y="534.96918"
            x="646.71399"

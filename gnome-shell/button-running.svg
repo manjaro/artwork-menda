@@ -14,7 +14,7 @@
    height="36"
    id="svg3864"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="button-running.svg">
   <defs
      id="defs3866">
@@ -32,91 +32,14 @@
     <linearGradient
        id="linearGradient3907">
       <stop
-         style="stop-color:#57C91C;stop-opacity:0.52549022;"
+         style="stop-color:#8cbc65;stop-opacity:0.52549022;"
          offset="0"
          id="stop3909" />
       <stop
-         style="stop-color:#6CC91C;stop-opacity:0;"
+         style="stop-color:#8cbc65;stop-opacity:0;"
          offset="1"
          id="stop3911" />
     </linearGradient>
-    <linearGradient
-       id="linearGradient3897">
-      <stop
-         style="stop-color:#79FF0C;stop-opacity:1;"
-         offset="0"
-         id="stop3899" />
-      <stop
-         style="stop-color:#6BFF0C;stop-opacity:0;"
-         offset="1"
-         id="stop3901" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4485">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0.71649486;"
-         offset="0"
-         id="stop4487" />
-      <stop
-         style="stop-color:#67FF15;stop-opacity:1;"
-         offset="1"
-         id="stop4489" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4473">
-      <stop
-         style="stop-color:#06080A;stop-opacity:1;"
-         offset="0"
-         id="stop4475" />
-      <stop
-         style="stop-color:#06080a;stop-opacity:0;"
-         offset="1"
-         id="stop4477" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4463">
-      <stop
-         style="stop-color:#000000;stop-opacity:0.44559586;"
-         offset="0"
-         id="stop4465" />
-      <stop
-         style="stop-color:#06080a;stop-opacity:0;"
-         offset="1"
-         id="stop4467" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4453">
-      <stop
-         style="stop-color:#39422F;stop-opacity:1;"
-         offset="0"
-         id="stop4455" />
-      <stop
-         style="stop-color:#232A1D;stop-opacity:1;"
-         offset="1"
-         id="stop4457" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4445">
-      <stop
-         style="stop-color:#728495;stop-opacity:1;"
-         offset="0"
-         id="stop4447" />
-      <stop
-         style="stop-color:#799561;stop-opacity:0;"
-         offset="1"
-         id="stop4449" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4485"
-       id="radialGradient4491"
-       cx="18"
-       cy="18"
-       fx="18"
-       fy="18"
-       r="15"
-       gradientTransform="matrix(1.2,0,0,1.0666667,-3.6,-1.2)"
-       gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3907"
@@ -130,15 +53,6 @@
        inkscape:collect="always"
        xlink:href="#linearGradient3923"
        id="linearGradient3929"
-       x1="-7"
-       y1="33"
-       x2="36"
-       y2="33"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3923-0"
-       id="linearGradient3929-6"
        x1="-7"
        y1="33"
        x2="36"
@@ -168,22 +82,22 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#273021"
+     pagecolor="#212930"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.836083"
-     inkscape:cx="16.919463"
-     inkscape:cy="22.829394"
+     inkscape:zoom="31.672167"
+     inkscape:cx="1.5366337"
+     inkscape:cy="18.212184"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1186"
-     inkscape:window-height="726"
-     inkscape:window-x="178"
-     inkscape:window-y="20"
+     inkscape:window-height="638"
+     inkscape:window-x="92"
+     inkscape:window-y="23"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -221,7 +135,7 @@
      inkscape:groupmode="layer"
      transform="translate(0,4)">
     <rect
-       style="fill:#000000;fill-opacity:0.2745098"
+       style="fill:#000000;fill-opacity:0.35294119"
        id="rect3787"
        width="36"
        height="26"
@@ -245,7 +159,7 @@
        y="31"
        transform="translate(0,-4)" />
     <rect
-       style="fill:#61C91C;fill-opacity:1"
+       style="fill:#8cbc65;fill-opacity:1"
        id="rect3781-5"
        width="3"
        height="26"
@@ -261,7 +175,7 @@
        y="5"
        transform="translate(0,-4)" />
     <rect
-       style="fill:#76DC1E;fill-opacity:1"
+       style="fill:#8cbc65;fill-opacity:1"
        id="rect3919"
        width="1"
        height="26"
@@ -283,5 +197,20 @@
        height="1"
        x="0"
        y="-1" />
+    <rect
+       style="opacity:0.99999998999999995;fill:#000000;fill-opacity:0.19607843;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3793"
+       width="33"
+       height="1"
+       x="3"
+       y="5"
+       transform="translate(0,-4)" />
+    <rect
+       style="fill:#000000;fill-opacity:0.19607843;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3793-5"
+       width="33"
+       height="1"
+       x="3"
+       y="26" />
   </g>
 </svg>

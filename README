@@ -2,7 +2,7 @@ Name: Menda
 Summary: Theme for Manjaro Linux
 URL: https://github.com/manjaro/artwork-menda
 
-Copyright 2014 Manjaro (based on Ceti by horst3180)
+Copyright 2014 Manjaro (based on Vertex by horst3180)
 Licensed as GPLv3.
 
 The Menda theme includes:
@@ -12,6 +12,7 @@ The Menda theme includes:
 - Metacity theme
 - Xfwm4 theme
 - Openbox theme
+- Cinnamon theme
 
-Dependencies of gtk3.12-branch (for Gtk3.12)
-- gtk-engine-murrine (0.98.2)
+Dependencies of gtk3.14-branch (for Gtk3.14)
+- gtk-engine-murrine (<ver>)

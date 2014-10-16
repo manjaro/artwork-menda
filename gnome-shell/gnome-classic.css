@@ -39,6 +39,12 @@
     border-top-color: transparent;
 }
 
+.tile-preview-left.on-primary,
+.tile-preview-right.on-primary,
+.tile-preview-left.tile-preview-right.on-primary {
+    /* keep in sync with -panel-corner-radius */
+    border-radius: 0;
+}
 
 /* TOP BAR */
 
@@ -84,7 +90,7 @@
   .panel-button:active,
   .panel-button:overview,
   .panel-button:focus {
-     background-color: #4a90d9 !important; /* FIXME */
+     background-color: #8CBC65 !important; /* FIXME */
      color: #fff !important;
      border: none !important;
      border-image: none !important;
@@ -130,7 +136,7 @@
   }
 
   .popup-menu-item:active {
-    background-color: #4a90d9 !important;
+    background-color: #8CBC65 !important;
     color: #fff !important;
   }
 
@@ -183,7 +189,7 @@
   }
   .popup-menu StScrollBar StButton#vhandle:active,
   .popup-menu StScrollBar StButton#hhandle:active {
-    background-color: #4a90d9;
+    background-color: #8CBC65;
   }
 
 /* CALENDAR */
@@ -198,12 +204,12 @@
   }
   .calendar-day-base:active {
     color: #fff !important;
-    background-color: #4a90d9 !important;
+    background-color: #8CBC65 !important;
     background-image: none !important;
     border-image: none !important;
   }
   .calendar-today {
-    background-color: #4a90d9 !important;
+    background-color: #8CBC65 !important;
     background-image: none !important;
     border-image: none !important;
   }
@@ -233,7 +239,7 @@
 .system-menu-action:focus,
 .system-menu-action:active {
     color: white;
-    background-color: #4a90d9;
+    background-color: #8CBC65;
     border: none;
 }
 
