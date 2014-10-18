@@ -23,7 +23,7 @@ MatePanelApplet {
 /* needed for a working top panel with 24px (default) */
 PanelMenuBar.menubar * {
 	background-image: none;
-	background-color: transparent;
+	background-color: none;
 	border-width: 0px;
 	border-style: none;
 	padding: 0px;
