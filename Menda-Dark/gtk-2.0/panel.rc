@@ -3,7 +3,7 @@ style "theme-panel" = "dark"
   xthickness  = 1
   ythickness  = 1
   
-  bg[NORMAL]  = "#000000"
+  bg[NORMAL]  = "#1e1e1e"
   bg[ACTIVE]  = @selected_bg_color
   bg[PRELIGHT]  = shade (0.85, @selected_bg_color)
   bg[SELECTED]  = shade (0.65, @selected_bg_color)
