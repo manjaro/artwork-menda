@@ -58,6 +58,7 @@ style "default" {
   GtkMenu::horizontal-padding = 0
   GtkMenu::vertical-padding = 0
 
+
   GtkCheckButton::indicator_spacing = 3
   GtkOptionMenu::indicator_spacing = { 8, 2, 0, 0 }
 
@@ -687,6 +688,7 @@ style "menubar" {
   text[SELECTED] = "#1e1e1e"
   
 
+
   xthickness = 0
   ythickness = 0
 
@@ -711,14 +713,11 @@ style "menu" {
   GtkMenuItem::arrow-scaling = 0.4
 
   bg[NORMAL] = "#1e1e1e"
-  bg[INSENSITIVE] = @base_color
+  bg[INSENSITIVE] = "#1e1e1e"
   bg[PRELIGHT] = "#1e1e1e"
   fg[NORMAL] = @menubar_fg_color
   text[NORMAL] = "#e0e0e0"
   text[SELECTED] = "#1e1e1e"
-
-  
- 
 
 
     engine "pixmap" { # For menus that use horizontal lines rather than gtkseparator
@@ -785,7 +784,7 @@ style "menu_item"
 
   bg[PRELIGHT] = @selected_bg_color
   fg[PRELIGHT] = "#1e1e1e"
-
+  fg[INSENSITIVE] = "#7e7e7e"
 
   engine "pixmap" {
 
@@ -2405,6 +2404,28 @@ style "null" {
   }
 }
 
+# Text Style
+style "text" {
+
+  base[NORMAL] = "#ff0000"
+		
+  engine "murrine" {
+    text_shade = 0.7
+    textstyle = 2
+  }
+}
+
+# Text Style Notebook
+style "notebook-text" {
+  #fg[INSENSITIVE] = "#2c2e2f"
+  #text[INSENSITIVE] = "#2c2e2f"
+	
+  engine "murrine" {
+    text_shade 	= 0.6
+    textstyle 	= 2
+  }
+}
+
 
 class "GtkWidget"                                                   style "default"
 class "GtkScrollbar"                                                style "scrollbar"
@@ -2467,7 +2488,6 @@ widget_class "*<GimpToolbox>*<GtkFrame>"                            style "gimp_
 # Chrome/Chromium
 class "ChromeGtkFrame"                                              style "chrome-gtk-frame"
 widget_class "*Chrom*Button*"                                       style "button"
-widget_class "*<GtkCustomMenu>*"                                    style "chrome_menu"
 widget_class "*<GtkCustomMenu>*<GtkCustomMenuItem>*"                style "chrome_menu_item"
 
 # We use this weird selector to target an offscreen entry as created
@@ -2477,6 +2497,11 @@ widget_class "<GtkEntry>"                                           style "stand
 # Eclipse/SWT
 widget "gtk-tooltips*"                                              style "eclipse-tooltips"
 widget "*swt-toolbar-flat"                                          style "null"
+
+# Fixes ugly text shadows for insensitive text
+widget_class "*<GtkLabel>"                                          style "text" 
+widget_class "*<GtkNotebook>*<GtkLabel>"                            style "notebook-text"
+widget_class "*<GtkNotebook>*<GtkCellLayout>"                       style "notebook-text"
 
 # Openoffice, Libreoffice
 class "GtkWindow"                                                   style "toplevel_hack"
@@ -2502,6 +2527,7 @@ style "xfdesktop-icon-view"
 }
 widget_class "*XfdesktopIconView*" style "xfdesktop-icon-view"
 
+
 # Whisker menu style
 style "whisker-style"
 {
@@ -2509,4 +2535,4 @@ style "whisker-style"
   bg[ACTIVE] = darker (@bg_color)
   bg[PRELIGHT] = darker (@bg_color)
 }
-widget "whiskermenu-window*" style "whisker-style"
+widget "whiskermenu-window*" style "whisker-style
