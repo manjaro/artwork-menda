@@ -712,7 +712,7 @@ style "menu" {
   bg[INSENSITIVE] = @base_color
   bg[PRELIGHT] = @base_color
 
-  engine "pixmap" { # For menus that use horizontal lines rather than gtkseparator
+engine "pixmap" { # For menus that use horizontal lines rather than gtkseparator
 
     image {
       function = HLINE
@@ -1043,6 +1043,11 @@ style "entry" {
 
   base[NORMAL] = "#1e1e1e"
   base[INSENSITIVE] = @insensitive_bg_color
+  text[SELECTED]    = "#ffffff"
+  text[NORMAL]    = "#BBBBBB"
+  text[INSENSITIVE] = "#BBBBBB"
+  text[PRELIGHT]  = "#BBBBBB"
+  text[ACTIVE]    = "#BBBBBB"
 
   engine "pixmap" {
 
@@ -2489,3 +2494,13 @@ style "xfdesktop-icon-view"
 	}
 }
 widget_class "*XfdesktopIconView*" style "xfdesktop-icon-view"
+
+
+# Whisker menu style
+style "whisker-style"
+{
+  bg[NORMAL] = @bg_color
+  bg[ACTIVE] = darker (@bg_color)
+  bg[PRELIGHT] = darker (@bg_color)
+}
+widget "whiskermenu-window*" style "whisker-style
