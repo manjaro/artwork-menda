@@ -2538,3 +2538,5 @@ style "whisker-style"
   fg[ACTIVE] = @selected_fg_color
 }
 widget "whiskermenu-window*" style "whisker-style"
+
+
