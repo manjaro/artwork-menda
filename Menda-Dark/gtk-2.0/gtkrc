@@ -679,11 +679,12 @@ style "scrollbar" {
 
 style "menubar" {
 
-  bg[PRELIGHT] = "#FFF"	
+  bg[PRELIGHT] = "#FFF" 
   bg[NORMAL] = "#1e1e1e"
-  fg[NORMAL] = @selected_fg_color
-  fg[SELECTED] = @text_color
+  fg[NORMAL] = "#ffffff"
   fg[INSENSITIVE] = shade(0.5, @selected_fg_color)
+  fg[SELECTED] = "#1e1e1e"
+  text[SELECTED] = "#1e1e1e"
 
   xthickness = 0
   ythickness = 0
@@ -708,9 +709,12 @@ style "menu" {
 
   GtkMenuItem::arrow-scaling = 0.4
 
-  bg[NORMAL] = shade (1.08, @bg_color)
-  bg[INSENSITIVE] = @base_color
-  bg[PRELIGHT] = @base_color
+  bg[NORMAL] = "#1e1e1e"
+  bg[INSENSITIVE] = "#1e1e1e"
+  bg[PRELIGHT] = "#1e1e1e"
+  fg[NORMAL] = "#e0e0e0"
+  text[NORMAL] = "#e0e0e0"
+  text[SELECTED] = "#1e1e1e"
 
 engine "pixmap" { # For menus that use horizontal lines rather than gtkseparator
 
@@ -745,7 +749,7 @@ style "menu_item"
   bg[SELECTED] = @selected_bg_color
 
   bg[PRELIGHT] = @selected_bg_color
-  fg[PRELIGHT] = @selected_fg_color
+  fg[PRELIGHT] = "#1e1e1e"
   text[PRELIGHT] = @selected_fg_color
 
   engine "pixmap" {
@@ -933,7 +937,7 @@ style "menubar_item" {
   ythickness	= 3
 
   bg[PRELIGHT]	= @selected_fg_color
-  fg[PRELIGHT]	= @text_color
+  fg[PRELIGHT]	= "#1e1e1e"
 
   engine "pixmap" {
 
