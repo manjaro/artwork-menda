@@ -8,10 +8,10 @@ style "theme-panel" = "dark"
   bg[PRELIGHT]  = shade (0.85, @selected_bg_color)
   bg[SELECTED]  = shade (0.65, @selected_bg_color)
   
-  fg[NORMAL]  = @selected_fg_color
-  fg[PRELIGHT]  = @selected_fg_color
-  fg[ACTIVE]  = @selected_fg_color
-  fg[SELECTED]  = @selected_fg_color
+  fg[NORMAL]  = "#ffffff"
+  fg[PRELIGHT]  = "#ffffff"
+  fg[ACTIVE]  = "#ffffff"
+  fg[SELECTED]  = "#ffffff"
   
   text[NORMAL]  = "#ffffff"
   text[PRELIGHT]  = "#ffffff"
