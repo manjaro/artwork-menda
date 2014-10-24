@@ -2534,5 +2534,7 @@ style "whisker-style"
   bg[NORMAL] = @bg_color
   bg[ACTIVE] = darker (@bg_color)
   bg[PRELIGHT] = darker (@bg_color)
+  fg[PRELIGHT] = @selected_fg_color
+  fg[ACTIVE] = @selected_fg_color
 }
-widget "whiskermenu-window*" style "whisker-style
+widget "whiskermenu-window*" style "whisker-style"
