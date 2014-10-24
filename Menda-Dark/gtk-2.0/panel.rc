@@ -9,9 +9,9 @@ style "theme-panel" = "dark"
   bg[SELECTED]  = shade (0.65, @selected_bg_color)
   
   fg[NORMAL]  = "#ffffff"
-  fg[PRELIGHT]  = "#ffffff"
-  fg[ACTIVE]  = "#ffffff"
-  fg[SELECTED]  = "#ffffff"
+  fg[PRELIGHT]  = "#1e1e1e"
+  fg[ACTIVE]  = "#1e1e1e"
+  fg[SELECTED]  = "#1e1e1e"
   
   text[NORMAL]  = "#ffffff"
   text[PRELIGHT]  = "#ffffff"
@@ -38,7 +38,7 @@ style "theme-panel-text"
   text[ACTIVE]  = "#ffffff"
   engine "murrine" {
     textstyle = 1
-    text_shade  = 0.2
+    text_shade  = 0.1
   }
 }
 
@@ -79,15 +79,15 @@ style "window-buttons" = "theme-panel"
   bg[SELECTED]  = shade (0.85, @selected_bg_color)
   
   fg[NORMAL]  = "#ffffff"
-  fg[ACTIVE]  = "#ffffff"
-  fg[PRELIGHT]  = "#ffffff"
+  fg[ACTIVE]  = "#1e1e1e"
+  fg[PRELIGHT]  = "#1e1e1e"
   
   engine "murrine" {
     contrast = 0.0
     roundness = 1
     reliefstyle = 0
     textstyle = 1
-    text_shade  = 0.2
+    text_shade  = 0.1
   }
 }
 
