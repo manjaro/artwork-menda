@@ -1036,8 +1036,9 @@ style "button_nohilight" {
 
 style "checkbutton" {
 
-  fg[PRELIGHT] = "#1e1e1e"
-  fg[ACTIVE] = "#1e1e1e"
+  fg[PRELIGHT] = "#ffffff"
+  fg[ACTIVE] = "#ffffff"
+  bg[PRELIGHT] = "#2A2A2B"
 
 }
 
