@@ -11,6 +11,7 @@ style "default" {
   xthickness = 1
   ythickness = 1
 
+
   # Style Properties
 
   GtkWidget::focus-line-width = 1
@@ -80,7 +81,7 @@ style "default" {
   bg[ACTIVE] = shade (0.9, @bg_color)
 
   fg[NORMAL] = @text_color
-  fg[PRELIGHT] = @fg_color
+  fg[PRELIGHT] = "#1e1e1e"
   fg[SELECTED] = @selected_fg_color
   fg[INSENSITIVE] = shade(0.6, @fg_color)
   fg[ACTIVE] = @fg_color
