@@ -1047,7 +1047,7 @@ style "entry" {
 
   base[NORMAL] = "#1e1e1e"
   base[INSENSITIVE] = @insensitive_bg_color
-  text[SELECTED]    = "#ffffff"
+  text[SELECTED]    = "#1e1e1e"
   text[NORMAL]    = "#BBBBBB"
   text[INSENSITIVE] = "#BBBBBB"
   text[PRELIGHT]  = "#BBBBBB"
