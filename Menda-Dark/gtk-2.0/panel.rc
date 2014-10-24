@@ -74,7 +74,7 @@ style "window-buttons" = "theme-panel"
   xthickness  = 3
   ythickness  = 3
 
-  bg[ACTIVE]  = shade (0.65, @selected_bg_color)
+  bg[ACTIVE]  = shade (0.75, @selected_bg_color)
   bg[PRELIGHT]  = shade (0.85, @selected_bg_color)
   bg[SELECTED]  = shade (0.85, @selected_bg_color)
   
