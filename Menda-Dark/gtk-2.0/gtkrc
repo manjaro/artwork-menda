@@ -683,7 +683,7 @@ style "menubar" {
   bg[PRELIGHT] = "#FFF" 
   bg[NORMAL] = "#1e1e1e"
   fg[NORMAL] = "#ffffff"
-  fg[INSENSITIVE] = shade(0.5, @selected_fg_color)
+  fg[INSENSITIVE] = "#696969"
   fg[SELECTED] = "#1e1e1e"
   text[SELECTED] = "#1e1e1e"
 
