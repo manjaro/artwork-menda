@@ -661,6 +661,8 @@ GtkComboBox {
     color: @insensitive_fg_color;
     text-shadow: none;
     icon-shadow: none; }
+  GtkComboBox .cell:hover {
+    color: #1e1e1e; }
   GtkComboBox .menuitem {
     text-shadow: none; }
   GtkComboBox .separator {
