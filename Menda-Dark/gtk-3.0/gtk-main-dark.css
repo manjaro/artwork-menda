@@ -129,7 +129,7 @@
 @define-color wm_title_shadow @wm_title_highlight;
 
 @define-color wm_bg_a #1e1e1e;
-@define-color wm_bg_b #8CBC65;
+@define-color wm_bg_b #1e1e1e;
 @define-color metacity_bg_a #1e1e1e;
 @define-color metacity_bg_b #1e1e1e;
 
@@ -137,6 +137,8 @@
 @define-color window_frame alpha(black, 0.85);
 @define-color wm_border black;
 
+@define-color notebook_tab_gradient_a #8CBC65;
+@define-color notebook_tab_gradient_b #8CBC65;
 
 @import url("gtk-widgets.css");
 @import url("gtk-widgets-dark-overrides.css");
