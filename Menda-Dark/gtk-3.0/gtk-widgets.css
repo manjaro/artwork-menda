@@ -1335,9 +1335,9 @@ GtkTreeView.view.trough:selected {
       color: mix(@theme_fg_color, @theme_bg_color, 0.40);
       text-shadow: 0 1px @highlight_shadow; }
     .notebook tab .prelight-page GtkLabel, .notebook tab GtkLabel.prelight-page {
-      color: mix (@theme_fg_color, @theme_bg_color, 0.15); }
+      color: mix (@theme_fg_color, @theme_selected_bg_color, 0.75); }
     .notebook tab .active-page GtkLabel, .notebook tab GtkLabel.active-page {
-      color: @theme_fg_color; }
+      color: #262626; }
     .notebook tab .button {
       padding: 0;
       border: 1px solid transparent;

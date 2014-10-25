@@ -81,8 +81,8 @@
 @define-color infobar_text_shadow alpha(black, 0.7);
 
 
-@define-color selection_toolbar_bg_a #669440;
-@define-color selection_toolbar_bg_b #1D437B;
+@define-color selection_toolbar_bg_a #8CBC65;
+@define-color selection_toolbar_bg_b #669440;
 @define-color selection_toolbar_border #0D3B11;
 @define-color selection_button_text_shadow alpha(black, 0.5);
 
@@ -99,8 +99,8 @@
  *******/
 @define-color osd_text_shadow alpha(black, 0.75);
 
-@define-color osd_toolbar_bg_a alpha(shade(#3D3E40, 1.15), 0.75);
-@define-color osd_toolbar_bg_b alpha(shade(#3D3E40, 0.85), 0.75);
+@define-color osd_toolbar_bg_a alpha(shade(#1e1e1e, 1.15), 0.75);
+@define-color osd_toolbar_bg_b alpha(shade(#1e1e1e, 0.85), 0.75);
 
 @define-color osd_button_bg_a @osd_toolbar_bg_a;
 @define-color osd_button_bg_b @osd_toolbar_bg_b;
@@ -129,7 +129,7 @@
 @define-color wm_title_shadow @wm_title_highlight;
 
 @define-color wm_bg_a #1e1e1e;
-@define-color wm_bg_b #1e1e1e;
+@define-color wm_bg_b #8CBC65;
 @define-color metacity_bg_a #1e1e1e;
 @define-color metacity_bg_b #1e1e1e;
 
