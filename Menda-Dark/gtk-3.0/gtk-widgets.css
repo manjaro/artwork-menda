@@ -312,7 +312,7 @@ GtkFlowBox .grid-child {
   .osd.stack-switcher .button {
     outline-offset: -3px; }
   .osd.stack-switcher .button:checked, .osd.stack-switcher .button:checked:hover, .osd.stack-switcher .button:active:hover, .osd.stack-switcher .button:hover {
-    color: @theme_selected_fg_color; }
+    color: #ff0000; }
   .osd .button {
     padding: 6px;
     color: @theme_selected_fg_color;
@@ -1957,7 +1957,7 @@ GtkInfoBar {
  * Tooltips *
  ************/
 .tooltip {
-  color: @theme_selected_fg_color;
+  color: #dcdcdc;
   padding: 4px;
   /* not working */
   border-radius: 2px;
