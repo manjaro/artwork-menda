@@ -2112,7 +2112,7 @@ style "treeview_header" {
   ythickness = 1
 
   fg[PRELIGHT] = mix(0.70, @text_color, @base_color)
-  font_name = "Bold"
+  #font_name = "Bold"
 
   engine "pixmap" {
 
@@ -2384,8 +2384,8 @@ style "text" {
   base[NORMAL] = "#ff0000"
 		
   engine "murrine" {
-    text_shade = 0.7
-    textstyle = 2
+    
+    textstyle = 3
   }
 }
 
@@ -2395,8 +2395,8 @@ style "notebook-text" {
   #text[INSENSITIVE] = "#2c2e2f"
 	
   engine "murrine" {
-    text_shade 	= 0.6
-    textstyle 	= 2
+  
+    textstyle 	= 3
   }
 }
 
