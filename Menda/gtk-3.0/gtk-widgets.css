@@ -1072,11 +1072,11 @@ GtkTreeView.view.trough:selected {
   background-clip: initial;
   margin: 10px;
   padding: 2px;
-  border-color: darker(@theme_base_color);
+  border-color: #1e1e1e;
   border-width: 1px;
   border-style: solid;
   border-radius: 3px;
-  background-color: @theme_base_color;
+  background-color: #1e1e1e;
   box-shadow: 0 1px 5px @wm_shadow;
   text-shadow: none;
   icon-shadow: none; }
@@ -1128,8 +1128,61 @@ GtkTreeView.view.trough:selected {
       .popover.osd .button:insensitive {
         color: alpha(@theme_selected_fg_color, 0.4); }
 
+
+
+.popover .button,
+.popover .primary-toolbar .linked .button {
+  transition: all 200ms ease-out;
+  padding: 4px 8px 5px;
+  color: #F3F3F5;
+  background-image: linear-gradient(to bottom, 
+                                    @button_gradient_color_c,
+                                    @button_gradient_color_d);
+  background-color: transparent;
+  text-shadow: 0 1px @highlight_shadow_b;
+  icon-shadow: 0 1px @highlight_shadow_b; }
+  .popover .button:focus { outline-color: transparent; }
+  .popover .button:hover, .popover .button.flat:hover, .popover .primary-toolbar .button:hover,
+  .popover .header-bar .button.titlebutton:hover,
+  .popover .titlebar .button.titlebutton:hover,
+  GtkCalendar.header .button.titlebutton:hover {
+    color: #1e1e1e;
+    background-image: linear-gradient(to bottom,
+                                      @button_hover_gradient_color_a,
+                                      @button_hover_gradient_color_b);
+    text-shadow: 0 1px @highlight_shadow_b;
+    icon-shadow: 0 1px @highlight_shadow_b;
+    -gtk-image-effect: highlight; }
+  .popover .button:active, .popover .button.flat:active, .popover .primary-toolbar .button:active,
+  .popover .button:checked, .popover .button.flat:checked, .popover .primary-toolbar .button:checked,
+  .popover .header-bar .button.titlebutton:active,
+  .popover .titlebar .button.titlebutton:active,
+  GtkCalendar.header .popover .button.titlebutton:active,
+  .popover .header-bar .button.titlebutton:checked,
+  .popover .titlebar .button.titlebutton:checked,
+  GtkCalendar.header .popover .button.titlebutton:checked {
+    color: @button_active_text;
+    background-image: linear-gradient(to bottom,
+                                      @button_active_gradient_color_a,
+                                      @button_active_gradient_color_b);
+    text-shadow: 0 -1px @button_active_text_shadow;
+    icon-shadow: 0 -1px @button_active_text_shadow;
+    box-shadow: inset 0 1px 2px alpha(black, 0.2);
+    transition-duration: 50ms;
+    outline-color: alpha(@button_active_text, 0.3); }
+  .popover .button:insensitive {
+    color: @insensitive_fg_color;
+    background-image: none;
+    background-color: @insensitive_bg_color_b;
+    text-shadow: none;
+    icon-shadow: none; }        
+
 .popover .list {
-  background-color: @theme_base_color; }
+  background-color: #1e1e1e; }
+
+.popover .menuitem {
+  color: #EAEAEA;
+}
 
 .entry.cursor-handle,
 .cursor-handle {
