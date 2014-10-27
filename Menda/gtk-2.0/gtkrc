@@ -716,7 +716,7 @@ style "menu" {
   bg[INSENSITIVE] = "#1e1e1e"
   bg[PRELIGHT] = "#1e1e1e"
   fg[NORMAL] = @menubar_fg_color
-  text[NORMAL] = "#e0e0e0"
+  text[NORMAL] = "#EAEAEA"
   text[SELECTED] = "#1e1e1e"
 
 

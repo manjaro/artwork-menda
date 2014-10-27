@@ -243,7 +243,7 @@ GtkFlowBox .grid-child {
   .header-bar .button.titlebutton:hover,
   .titlebar .button.titlebutton:hover,
   GtkCalendar.header .button.titlebutton:hover {
-    color: #ffffff;
+    color: #1e1e1e;
     background-image: linear-gradient(to bottom,
 				                              @button_hover_gradient_color_a,
                                       @button_hover_gradient_color_b);
@@ -1018,8 +1018,8 @@ GtkTreeView.view.trough:selected {
     padding: 4px 8px;
     text-shadow: 0 1px @highlight_shadow; }
     .menubar > .menuitem:hover {
-      background-color: @theme_base_color;
-      color: @theme_fg_color;
+      background-color: #8CBC65;
+      color: #1e1e1e;
       border-radius: 3px 3px 0 0; }
     .menubar > .menuitem:insensitive {
       color: @insensitive_fg_color;
@@ -1029,13 +1029,14 @@ GtkTreeView.view.trough:selected {
 .menu {
   margin: 4px;
   padding: 0px;
-  background-color: @theme_base_color; }
+  background-color: #1e1e1e;
+  color: #EAEAEA; }
   .menu .menuitem {
     text-shadow: none;
     icon-shadow: none;
     padding: 4px; }
     .menu .menuitem:hover {
-      color: @theme_selected_fg_color;
+      color: #1e1e1e;
       background-image: linear-gradient(to bottom,
                                       mix(@theme_selected_bg_color, @theme_base_color, 0.1),
                                       mix(@theme_selected_bg_color, @theme_base_color, 0.3));
@@ -1075,7 +1076,7 @@ GtkTreeView.view.trough:selected {
   border-width: 1px;
   border-style: solid;
   border-radius: 3px;
-  background-color: shade(@theme_base_color, 0.98);
+  background-color: @theme_base_color;
   box-shadow: 0 1px 5px @wm_shadow;
   text-shadow: none;
   icon-shadow: none; }

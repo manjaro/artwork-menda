@@ -31,6 +31,10 @@
 @define-color button_gradient_color_a shade(@theme_bg_color, 1.3);
 @define-color button_gradient_color_b shade(@theme_bg_color, 0.85);
 
+@define-color button_gradient_color_c shade(@theme_selected_bg_color, 1.3);
+@define-color button_gradient_color_d shade(@theme_selected_bg_color, 0.85);
+
+
 @define-color button_hover_gradient_color_a #8CBC65;
 @define-color button_hover_gradient_color_b #8CBC65;
 

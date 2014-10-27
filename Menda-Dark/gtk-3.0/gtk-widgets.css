@@ -1020,8 +1020,8 @@ GtkTreeView.view.trough:selected {
     padding: 4px 8px;
     text-shadow: 0 1px @highlight_shadow; }
     .menubar > .menuitem:hover {
-      background-color: @theme_base_color;
-      color: @theme_fg_color;
+      background-color: #8CBC65;
+      color: #1e1e1e;
       border-radius: 3px 3px 0 0; }
     .menubar > .menuitem:insensitive {
       color: @insensitive_fg_color;
