@@ -2507,9 +2507,9 @@ widget_class "*XfdesktopIconView*" style "xfdesktop-icon-view"
 style "whisker-style"
 {
   bg[NORMAL] = @bg_color
-  bg[ACTIVE] = darker (@bg_color)
-  bg[PRELIGHT] = darker (@bg_color)
-  fg[PRELIGHT] = darker (@bg_color)
-
+  bg[ACTIVE] = @bg_color
+  bg[PRELIGHT] = @bg_color
+  fg[PRELIGHT] = @bg_color
+  fg[ACTIVE] = @bg_color
 }
 widget "whiskermenu-window*" style "whisker-style"
