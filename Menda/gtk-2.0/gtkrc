@@ -2512,6 +2512,7 @@ widget "*openoffice-toplevel*GtkSpinButton"                         style "libre
 widget "*libreoffice-toplevel*GtkEntry"                             style "libreoffice_entry"
 widget "*libreoffice-toplevel*GtkSpinButton"                        style "libreoffice_entry"
 
+
 # XFCE desktop icon text looks weird when murrine textstyle is on.
 style "xfdesktop-icon-view"
 {
@@ -2540,5 +2541,3 @@ style "whisker-style"
   fg[ACTIVE] = @selected_fg_color
 }
 widget "whiskermenu-window*" style "whisker-style"
-
-
