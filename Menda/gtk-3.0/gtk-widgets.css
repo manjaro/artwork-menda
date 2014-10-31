@@ -2008,7 +2008,7 @@ GtkInfoBar {
  * Tooltips *
  ************/
 .tooltip {
-  color: @theme_selected_fg_color;
+  color: #dcdcdc;
   padding: 4px;
   /* not working */
   border-radius: 2px;
