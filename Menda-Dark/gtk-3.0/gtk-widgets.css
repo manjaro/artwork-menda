@@ -1129,8 +1129,38 @@ GtkTreeView.view.trough:selected {
       .popover.osd .button:insensitive {
         color: alpha(@theme_selected_fg_color, 0.4); }
 
+
+.popover .button,
+.popover .primary-toolbar .linked .button {
+  transition: all 200ms ease-out;
+  padding: 4px 8px 5px;
+  color: #F3F3F5;
+  background-image: linear-gradient(to bottom, 
+                                    @button_gradient_color_a,
+                                    @button_gradient_color_b);
+  background-color: transparent;
+  text-shadow: 0 1px @highlight_shadow;
+  icon-shadow: 0 1px @highlight_shadow; }
+
+
+.popover .button:focus { outline-color: transparent; }
+  .popover .button:hover, .popover .button.flat:hover, .popover .primary-toolbar .button:hover,
+  .popover .header-bar .button.titlebutton:hover,
+  .popover .titlebar .button.titlebutton:hover,
+  GtkCalendar.header .button.titlebutton:hover {
+    color: #1e1e1e;
+    background-image: linear-gradient(to bottom,
+                                      @button_hover_gradient_color_c,
+                                      @button_hover_gradient_color_d);
+    text-shadow: 0 1px @highlight_shadow;
+    icon-shadow: 0 1px @highlight_shadow;
+    -gtk-image-effect: highlight; }
+
+
 .popover .list {
   background-color: @theme_base_color; }
+
+
 
 .entry.cursor-handle,
 .cursor-handle {

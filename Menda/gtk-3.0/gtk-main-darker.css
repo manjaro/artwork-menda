@@ -1,5 +1,5 @@
 /* GTK NAMED COLORS */
-@define-color theme_fg_color #3C3E3C;
+@define-color theme_fg_color #1e1e1e;
 @define-color theme_bg_color #F5F5F7;
 @define-color theme_base_color white;
 @define-color theme_selected_bg_color #8CBC65;
@@ -11,7 +11,7 @@
 @define-color error_color #cc0000;
 @define-color success_color #73d216;
 @define-color content_view_bg white;
-@define-color link_color #527734;
+@define-color link_color #b453b0;
 
 @define-color theme_black_color #1e1e1e;
 
@@ -25,9 +25,11 @@
 @define-color entry_bg_color @theme_base_color;
 @define-color entry_inset alpha(black, 0.1);
 
-@define-color highlight_shadow white;
+@define-color highlight_shadow #8CBC65;
 
 @define-color highlight_shadow_b alpha(white, 0.15);
+
+@define-color highlight_shadow_c #1e1e1e;
 
 @define-color button_gradient_color_a #F4F4F4;
 @define-color button_gradient_color_b #E2E3E5;
@@ -37,6 +39,9 @@
 
 @define-color button_hover_gradient_color_a #8CBC65;
 @define-color button_hover_gradient_color_b #8CBC65;
+
+@define-color button_hover_gradient_color_c #72a648;
+@define-color button_hover_gradient_color_d #8CBC65;
 
 @define-color button_active_gradient_color_a #689742;
 @define-color button_active_gradient_color_b #689742;

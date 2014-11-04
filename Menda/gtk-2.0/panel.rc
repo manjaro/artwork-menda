@@ -31,8 +31,8 @@ style "theme-panel" = "dark"
 style "theme-panel-text"
 {
   fg[NORMAL]  = "#ffffff"
-  fg[PRELIGHT]  = "#ffffff"
-  fg[ACTIVE]  = "#ffffff"
+  fg[PRELIGHT]  = "#1e1e1e"
+  fg[ACTIVE]  = "#1e1e1e"
   
   text[NORMAL]  = "#ffffff"
   text[PRELIGHT]  = "#ffffff"

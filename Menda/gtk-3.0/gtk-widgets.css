@@ -236,8 +236,7 @@ GtkFlowBox .grid-child {
                                     @button_gradient_color_a,
                                     @button_gradient_color_b);
   background-color: transparent;
-  text-shadow: 0 1px @highlight_shadow;
-  icon-shadow: 0 1px @highlight_shadow; }
+}
   .button:focus { outline-color: transparent; }
   .button:hover, .button.flat:hover, .primary-toolbar .button:hover,
   .header-bar .button.titlebutton:hover,
@@ -1130,7 +1129,19 @@ GtkTreeView.view.trough:selected {
 
 
 
-.popover .button,
+.popover .button {
+  transition: all 200ms ease-out;
+  padding: 4px 8px 5px;
+  color: #ffffff;
+  background-image: linear-gradient(to bottom, 
+                                    @button_gradient_color_c,
+                                    @button_gradient_color_d);
+  background-color: transparent;
+  text-shadow: 0 1px @highlight_shadow_c;
+  icon-shadow: 0 1px @highlight_shadow_c;
+
+ }
+
 .popover .primary-toolbar .linked .button {
   transition: all 200ms ease-out;
   padding: 4px 8px 5px;
@@ -1141,6 +1152,8 @@ GtkTreeView.view.trough:selected {
   background-color: transparent;
   text-shadow: 0 1px @highlight_shadow_b;
   icon-shadow: 0 1px @highlight_shadow_b; }
+
+
   .popover .button:focus { outline-color: transparent; }
   .popover .button:hover, .popover .button.flat:hover, .popover .primary-toolbar .button:hover,
   .popover .header-bar .button.titlebutton:hover,
@@ -1148,8 +1161,8 @@ GtkTreeView.view.trough:selected {
   GtkCalendar.header .button.titlebutton:hover {
     color: #1e1e1e;
     background-image: linear-gradient(to bottom,
-                                      @button_hover_gradient_color_a,
-                                      @button_hover_gradient_color_b);
+                                      @button_hover_gradient_color_c,
+                                      @button_hover_gradient_color_d);
     text-shadow: 0 1px @highlight_shadow_b;
     icon-shadow: 0 1px @highlight_shadow_b;
     -gtk-image-effect: highlight; }
@@ -1178,7 +1191,18 @@ GtkTreeView.view.trough:selected {
     icon-shadow: none; }        
 
 .popover .list {
-  background-color: #1e1e1e; }
+  background-color: #151515;
+
+   }  
+
+.popover .frame {
+  border: 1px solid #1e1e1e;
+  padding: 0; }    
+
+.popover .entry {
+  background-color: #181818;
+  color: #F3F3F5;
+}
 
 .popover .menuitem {
   color: #EAEAEA;
@@ -1836,7 +1860,7 @@ GtkCalendar {
     border: 1px solid @borders;
     border-radius: 0; }
   GtkCalendar.button {
-    color: alpha(@theme_fg_color, 0.55) }
+    color: alpha(@theme_fg_color, 0.55); }
     GtkCalendar.button:hover {
       color: @theme_fg_color; }
   GtkCalendar.highlight {
