@@ -2541,3 +2541,10 @@ style "whisker-style"
   fg[ACTIVE] = @selected_fg_color
 }
 widget "whiskermenu-window*" style "whisker-style"
+
+# Working transparency using Mist engine for GtkImage. Thanks sixsixfive from the Xfce community for the tip.
+style "gtklabelimage" {
+  engine "mist" {}
+}
+class "GtkImage"                                                    style"gtklabelimage"
+#class "GtkLabel"                                                    style"gtklabelimage"   # i don't think this is beneficial for us, but leaving it here commented for now
