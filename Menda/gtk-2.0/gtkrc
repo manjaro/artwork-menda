@@ -2369,6 +2369,8 @@ style "eclipse-tooltips" {
 # Chromium
 style "chrome-gtk-frame" {
 
+  engine "mist" {}
+
   ChromeGtkFrame::frame-color = "#1e1e1e"
   ChromeGtkFrame::inactive-frame-color = "#1e1e1e"
 
