@@ -1,0 +1,10 @@
+
+Firefox This is a set of patches to make firefox work better with dark themes.  It is not a Firefox theme.
+Unpack the Menda Dark package and locate the Firefox chrome folder.  Next go to '~/.mozilla/firefox/xSomeNumbers.default'.
+If there is no 'chrome' folder, just copy and paste the one from inside the Menda Dark theme folder.
+If there is a 'chrome' folder, merge its contents with the Medna Dark 'chrome' folder.
+Restart Firefox to apply the theme.  This theme depends on Menda Dark being in use to work properly!
+
+User Profile You may also desire to create a new user-porfile for the Menda Dark theme since it hard codes its appearance.  To do this simply open firefox with a trailing '-p', for example: firefox -p.  A small gui will appear.  Choose create profile and follow the instructions.  If you would like this gui to appear at every start-up(recommended) so you can choose you profile.  Un-tick 'Don't ask at startup', or you can always start the app with the '-p' to change profiles again.
+
+AneX
