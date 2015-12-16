@@ -296,8 +296,6 @@ GeditFileBrowserWidget .toolbar {
 
 .gedit-search-entry-occurrences-tag {
   color: alpha(@theme_fg_color, 0.6);
-  border: none;
-  box-shadow: none;
   margin: 2px;
   padding: 2px;
 }

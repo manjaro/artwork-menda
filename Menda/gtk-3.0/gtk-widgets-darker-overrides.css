@@ -600,9 +600,9 @@ GtkWindow > GtkVBox > .dock > GtkHBox > GtkToolbar {
  * Window Decorations *
  *********************/
 .window-frame {
-  box-shadow: none; }
+  box-shadow: 0 0 0 1px @dark_window_frame, 0 2px 8px 3px @wm_shadow; }
   .window-frame:backdrop {
-    box-shadow: none; }
+    box-shadow: 0 0 0 1px @dark_window_frame, 0 2px 5px 1px @wm_shadow; }
 
 .header-bar .button.titlebutton,
 .titlebar .button.titlebutton,
