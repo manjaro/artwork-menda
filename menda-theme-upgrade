@@ -99,7 +99,7 @@ install_theme() {
       case $response in
         [yY][eE][sS]|[yY])
           echo "Installing $(basename $0) on /usr/bin/"
-          cp -r Menda-theme-upgrade /usr/bin/
+          cp -r menda-theme-upgrade /usr/bin/
           ;;
         *)
           echo "Aborted by user"
