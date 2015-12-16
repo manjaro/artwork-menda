@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Menda-Dark
+Comment=Manjaro Gtk Theme with transparent and flat elements
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Menda-Dark
+MetacityTheme=Menda-Dark
+IconTheme=Menda-Circle
+CursorTheme=Menda
+ButtonLayout=menu:minimize,maximize,close
