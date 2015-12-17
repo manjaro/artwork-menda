@@ -1012,21 +1012,6 @@ GtkTreeView.view.trough:selected {
 /*********
  * Menus *
  *********/
-.menubar {
-  -GtkWidget-window-dragging: true;
-  padding: 0px;
-  background-color: @theme_bg_color; }
-  .menubar > .menuitem {
-    padding: 4px 8px;
-    text-shadow: 0 1px @highlight_shadow; }
-    .menubar > .menuitem:hover {
-      background-color: #8CBC65;
-      color: #1e1e1e;
-      border-radius: 3px 3px 0 0; }
-    .menubar > .menuitem:insensitive {
-      color: @insensitive_fg_color;
-      box-shadow: none;
-      text-shadow: none; }
 
 .menu {
   margin: 4px;
@@ -1065,6 +1050,47 @@ GtkTreeView.view.trough:selected {
 .context-menu {
     font: initial;
     text-shadow: none; }
+
+/***********
+ * menubar *
+ ***********/
+.menubar {
+    -GtkWidget-window-dragging: true;
+
+    border-style: none;
+    background-color: @menubar_bg_color;
+    background-image: none;
+    color: @menubar_fg_color;
+}
+
+/***************
+ * menubaritem *
+ ***************/
+.menubar.menuitem,
+.menubar .menuitem {
+    padding: 3px 8px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: transparent;
+    background-color: transparent;
+    background-image: none;
+    color: @menubar_fg_color;
+}
+
+.menubar.menuitem:hover,
+.menubar .menuitem:hover {
+    border-color: shade(@theme_selected_bg_color, 1.1);
+    background-image: linear-gradient(to bottom,
+                                      shade(@theme_selected_bg_color, 1.2),
+                                      shade(@theme_selected_bg_color, 1.0)
+                                      );
+
+    color: @theme_selected_fg_color;
+}
+
+.menubar .menuitem *:hover {
+    color: @theme_selected_fg_color;
+}
 
 /***************
  * Popovers   *
