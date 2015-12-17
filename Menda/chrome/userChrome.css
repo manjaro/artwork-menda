@@ -60,12 +60,6 @@
   list-style-image: url("images/loading.png") !important;
 }
 
-/**************************** Menu Bar ***************************/
-
- menubar > *{
-    color: #ffffff !important;
-}
-
 /**************************** Bookmarks Bar ***************************/
 
 #navigator-toolbox #PersonalToolbar {
