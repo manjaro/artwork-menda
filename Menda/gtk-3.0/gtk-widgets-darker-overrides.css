@@ -382,7 +382,7 @@
  * Toolbars *
  ************/
 .toolbar {
-  background-image: linear-gradient(to bottom, @metacity_bg_b);
+  background-image: linear-gradient(to bottom, @theme_bg_color);
   background-color: @theme_bg_color;
 	color: @dark_fg_color; }
 
@@ -390,9 +390,9 @@
 GtkWindow > GtkVBox > .dock,
 GtkWindow > GtkVBox > .dock > GtkHBox > GtkToolbar {
   background-image: linear-gradient(to bottom,
-                                      @metacity_bg_b,
-                                      @dark_wm_bg_b);
-  border: 1px solid @dark_borders;
+                                      @theme_bg_color,
+                                      @theme_bg_color);
+  border: 1px solid @borders;
   border-width: 0 0 1px 0;
 	color: @dark_fg_color; }
 
